@@ -1,5 +1,4 @@
-----
-Spring MVC
+# Лабораторная работа №2 - Spring
 
 В данной работе использовалась архитектура MVC (Model-View-Controller)
 
